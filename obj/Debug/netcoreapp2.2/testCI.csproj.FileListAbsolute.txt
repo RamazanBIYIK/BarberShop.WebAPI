@@ -1,0 +1,14 @@
+/home/cutesafe/Desktop/testCI/bin/Debug/netcoreapp2.2/testCI.deps.json
+/home/cutesafe/Desktop/testCI/bin/Debug/netcoreapp2.2/testCI.runtimeconfig.json
+/home/cutesafe/Desktop/testCI/bin/Debug/netcoreapp2.2/testCI.runtimeconfig.dev.json
+/home/cutesafe/Desktop/testCI/bin/Debug/netcoreapp2.2/testCI.dll
+/home/cutesafe/Desktop/testCI/bin/Debug/netcoreapp2.2/testCI.pdb
+/home/cutesafe/Desktop/testCI/obj/Debug/netcoreapp2.2/testCI.csprojAssemblyReference.cache
+/home/cutesafe/Desktop/testCI/obj/Debug/netcoreapp2.2/testCI.csproj.CoreCompileInputs.cache
+/home/cutesafe/Desktop/testCI/obj/Debug/netcoreapp2.2/testCI.RazorAssemblyInfo.cache
+/home/cutesafe/Desktop/testCI/obj/Debug/netcoreapp2.2/testCI.RazorAssemblyInfo.cs
+/home/cutesafe/Desktop/testCI/obj/Debug/netcoreapp2.2/testCI.AssemblyInfoInputs.cache
+/home/cutesafe/Desktop/testCI/obj/Debug/netcoreapp2.2/testCI.AssemblyInfo.cs
+/home/cutesafe/Desktop/testCI/obj/Debug/netcoreapp2.2/testCI.RazorTargetAssemblyInfo.cache
+/home/cutesafe/Desktop/testCI/obj/Debug/netcoreapp2.2/testCI.dll
+/home/cutesafe/Desktop/testCI/obj/Debug/netcoreapp2.2/testCI.pdb
